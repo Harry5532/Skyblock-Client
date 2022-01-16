@@ -7,11 +7,13 @@ Aliases /sbc and /skyblockclient
 
 **Features**
 Floor 7
+
 Terminals click blocker, solver, and auto
 Arrow Align device click blocker and quick solver
 Auto ghost blocks to jump to terminals from crush
 
 **Dungeons**
+
 Blood finished spawning message
 Show and ESP hidden fels, Shadow Assassins, and stealthy blood mobs
 Correct Livid finder with ESP
@@ -24,6 +26,7 @@ Left click leap to door opener
 Configurable Gemstone ESP
 
 **Misc**
+
 No block animation for swords with right click ability
 Remove blindness, lava overlay, nausea, and portal effect
 Remove underwater FOV change
@@ -35,16 +38,19 @@ Custom mod-ID hider
 Endstone Protector Timer
 
 **Macros**
+
 Experiments click blocker, solver, and auto
 Auto single enchant book combine
 Custom Item Use Macros
 Bone Macro
 
 **Upcoming Features**
+
 Auto Rogue Sword
 Auto Salvage
 
 **Potential Upcoming Features**
+
 Universal Bridge port
 Wardrobe Macro
 Custom Item Use Block
