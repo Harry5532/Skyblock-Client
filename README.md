@@ -1,6 +1,6 @@
 # Skyblock-Client
 Skyblock Client Info Download the latest release here. 
-Report crashes (WITH A CRASH REPORT) or broken features to Harry282#1031 on Discord. 
+Report crashes (WITH A CRASH REPORT) or broken features to Harry5532#1031 on Discord. 
 Commands /sbclient to open config menu. 
 Aliases /sbc and /skyblockclient
 /sbclient mimicmessage [message] to set mimic message. 
